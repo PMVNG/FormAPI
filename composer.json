@@ -1,0 +1,11 @@
+{
+    "name": "jojoe77777/libformapi",
+    "description": "Simple API for creating forms for MCPE clients (PocketMine only)",
+    "type": "library",
+    "license": "LGPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "jojoe77777\\FormAPI\\": "src/jojoe77777/FormAPI"
+        }
+    }
+}
